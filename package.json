@@ -1,8 +1,8 @@
 {
-  "name": "happyfri",
+  "name": "vue2Demo",
   "version": "1.0.2",
-  "description": "vue2-happyfri",
-  "author": "cangdu <1264889788@qq.com>",
+  "description": "vue2Demo",
+  "author": "maxin",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "echarts": "^5.4.0",
+    "moment": "^2.29.4",
     "vue": "^2.1.0",
     "vue-router": "^2.1.1",
     "vuex": "^2.0.0"
